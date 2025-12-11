@@ -1,5 +1,3 @@
-// src/types/sanity.ts
-
 export interface Fahrzeug {
   _id: string;
   marke: string;
@@ -16,7 +14,6 @@ export interface Fahrzeug {
   leistungKW?: number;
   hubraum?: number;
   farbe?: string;
-  tupielen?: number;
   fahrzeugtyp?: string;
   ausstattung?: string[];
   beschreibung?: string;
