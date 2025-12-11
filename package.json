@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@astrojs/image": "^0.12.1",
+    "@astrojs/sitemap": "^3.6.0",
+    "@sanity/client": "^7.13.2",
+    "@sanity/image-url": "^2.0.2",
+    "sharp": "^0.34.5"
+  }
+}
